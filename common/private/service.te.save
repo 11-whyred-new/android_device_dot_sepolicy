@@ -3,10 +3,12 @@ type lineage_audio_service, system_api_service, system_server_service, service_m
 type lineage_hardware_service, system_api_service, system_server_service, service_manager_type;
 type lineage_performance_service, system_api_service, system_server_service, service_manager_type;
 type lineage_profile_service, system_api_service, system_server_service, service_manager_type;
+<<<<<<< HEAD
 type lineage_trust_service, system_api_service, system_server_service, service_manager_type;
 type lineage_weather_service, system_api_service, system_server_service, service_manager_type;
 type pocket_service, system_api_service, system_server_service, service_manager_type;
+=======
 
 type dc_dimming_service, system_api_service, system_server_service, service_manager_type;
 
-
+>>>>>>> df0598c... sepolicy: Introduce automated DC Dimming [3/3]
